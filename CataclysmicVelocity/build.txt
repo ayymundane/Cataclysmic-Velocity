@@ -1,0 +1,8 @@
+displayName = Cataclysmic Velocity
+author = ayymundane
+version = 0.1 
+hideCode = true
+hideResources = true
+includeSource = false
+buildIgnore = *.csproj, *.user, obj\*, bin\*, .vs\*
+includePDB = true
